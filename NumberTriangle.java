@@ -1,6 +1,6 @@
-package com.company;
+//package com.company;
 
-public class Main {
+public class NumberTriangle {
 
     public static void main(String[] args) {
         System.out.println("Starting the pyramid of numbers");
